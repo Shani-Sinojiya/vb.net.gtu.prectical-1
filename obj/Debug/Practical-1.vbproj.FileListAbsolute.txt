@@ -1,0 +1,11 @@
+E:\vb.net\practical1\Practical-1\bin\Debug\Practical-1.exe.config
+E:\vb.net\practical1\Practical-1\bin\Debug\Practical-1.exe
+E:\vb.net\practical1\Practical-1\bin\Debug\Practical-1.pdb
+E:\vb.net\practical1\Practical-1\bin\Debug\Practical-1.xml
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical-1.vbproj.AssemblyReference.cache
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical_1.Resources.resources
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical-1.vbproj.GenerateResource.cache
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical-1.vbproj.CoreCompileInputs.cache
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical-1.exe
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical-1.xml
+E:\vb.net\practical1\Practical-1\obj\Debug\Practical-1.pdb
